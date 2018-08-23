@@ -2,3 +2,4 @@
 First Hack Session 
 Kayan Regmi Caleb Bundy
 Hello World
+Major Computer Science
